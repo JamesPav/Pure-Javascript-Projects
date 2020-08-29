@@ -20,7 +20,7 @@ btns.forEach(function (btn) {
       value.style.color = "red";
     }
     if (count == 0) {
-      CSSPageRule.style.color = "#222";
+      value.style.color = "#222";
     }
     value.textContent = count;
   });
