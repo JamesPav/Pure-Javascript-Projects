@@ -22,5 +22,7 @@ ___
 
 [Landing Page with Video Background](https://jamespav.github.io/Pure-Javascript-Projects/Video%20Project/)
 
+[Simple Tab Navigation](https://jamespav.github.io/Pure-Javascript-Projects/Tabs/)
+
 
 
