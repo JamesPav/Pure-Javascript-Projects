@@ -2,7 +2,7 @@
 
 ## Some form of interaction has been added to all projects with pure Javascript and some CSS
 
-___
+---
 
 [Scroll Project](https://jamespav.github.io/Pure-Javascript-Projects/Scroll%20Project/)
 
@@ -24,5 +24,4 @@ ___
 
 [Simple Tab Navigation](https://jamespav.github.io/Pure-Javascript-Projects/Tabs/)
 
-
-
+[Countdown Giveaway](https://jamespav.github.io/Pure-Javascript-Projects/Countdown/)
