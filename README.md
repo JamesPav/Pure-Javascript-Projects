@@ -25,3 +25,5 @@
 [Simple Tab Navigation](https://jamespav.github.io/Pure-Javascript-Projects/Tabs/)
 
 [Countdown Giveaway](https://jamespav.github.io/Pure-Javascript-Projects/Countdown/)
+
+[Lorem Generator](https://jamespav.github.io/Pure-Javascript-Projects/Lorem%20Generator/)
